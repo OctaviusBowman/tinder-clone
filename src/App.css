@@ -74,9 +74,8 @@ header .fl {
 }
 
 .person img {
-  width: 500px;
-  height: 700px;
-  display: block;
+  height: 63vh;
+  display: flex;
   object-fit: cover;
 }
 
